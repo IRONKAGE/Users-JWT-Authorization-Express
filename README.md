@@ -1,4 +1,4 @@
-# Users-JWT-Authorization
+# Users-JWT-Authorization-Express
 JSON Web Token зі звичайною і Mongo БД
 
 1) Встановіть необхідні компоненти `npm i -d`
